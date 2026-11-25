@@ -21,6 +21,16 @@
   <img src="assets/Patient Zero - Cover Page.png" alt="MapKW" width="600px">
 </p>
 
+<!-- Centered Dashboard Preview -->
+<p align="center">
+  <img src="assets/Patient Zero - Dashboard Page.png" alt="MapKW" width="600px">
+</p>
+
+<!-- Centered Dashboard Preview -->
+<p align="center">
+  <img src="assets/Patient Zero - Appendix Page.png" alt="MapKW" width="600px">
+</p>
+
 ---
 
 ## Project Overview
