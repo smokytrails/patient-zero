@@ -14,6 +14,15 @@
 
 ---
 
+## Static Dashboard View
+
+<!-- Centered Dashboard Preview -->
+<p align="center">
+  <img src="assets/Patient Zero - Cover Page.png" alt="MapKW" width="600px">
+</p>
+
+---
+
 ## Project Overview
 
 Infectious diseases do not spread through populations uniformly. The underlying structure of social connections influences how quickly infections propagate, how severe outbreaks become, and how effectively interventions can contain transmission.
